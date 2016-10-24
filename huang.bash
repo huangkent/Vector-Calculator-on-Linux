@@ -1,8 +1,4 @@
-###		Name:			Weijun Huang
- #		Student #:		0054
- #		Course:			SWE 5001 Software Engineering 1
- #		Task:			Assignment 6  (Week 14)
-###		Due time:		midnight Wednesday, Dec 1, 2010
+###		Name:	Kent Huang
 
 ###  huang.bash
  #
